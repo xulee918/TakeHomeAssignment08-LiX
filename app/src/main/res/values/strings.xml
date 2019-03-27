@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HistoryStudyGuide</string>
+
+    <string name="question_mesopotamia">Mesopotamia lies between the Tigris and Euphrates River.</string>
+    <string name="question_egypt">King Tut ruled during the New Kingdom.</string>
+    <string name="question_ww1">World War 1 began in 1917.</string>
+    <string name="question_ww2">Countries used horse cavlary for warfare during World War 2.</string>
+    <string name="question_china">Zheng He was a Chinese explore that lived during the Ming Dynasty.</string>
+    <string name="question_einstein">Albert Einstein discovered Radium.</string>
+    <string name="question_rome">Rome was named after brother Romulus.</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="cheat_button">Cheat!</string>
+</resources>
